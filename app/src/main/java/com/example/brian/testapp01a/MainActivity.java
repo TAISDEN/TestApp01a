@@ -13,6 +13,7 @@ public class MainActivity extends AppCompatActivity {
 
 
     private String testString = "This is my test string";  //001-NewTestBranch
+    private String yaTestString = "This is my test string";  //002-anotherTest
 
 
     @Override
