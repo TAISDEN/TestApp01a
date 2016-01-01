@@ -15,6 +15,7 @@ public class MainActivity extends AppCompatActivity {
     private String testString = "This is my test string";  //001-NewTestBranch
     private String yaTestString = "This is my test string";  //002-anotherTest
     private String test3TestString = "This is my test string 3";  //003-test3
+    private String test4TestString = "This is my test string 4";  //004-test4
 
 
     @Override
